@@ -6,7 +6,7 @@ Prompt Engineering Cours in Arabic
 
 
 
-<a href="https://www.youtube.com/channel/UC9ocsRoOwj9tkAQNfUt8ZJg?sub_confirmation=1"><img src="https://github.com/Pythonation/Prompt-Engineering/blob/main/Prompt%20engineering%20YouTube%20video.png"></a>
+<a href="https://youtu.be/gZv5hFW3OF8"><img src="https://github.com/Pythonation/Prompt-Engineering/blob/main/Prompt%20engineering%20YouTube%20video.png"></a>
 
 
 [![مجتع بايثون العربي](https://images.milled.com/2019-12-19/3pGli9s5cCGeONOJ/uM1ZG0_8Y8E8.gif)](https://www.youtube.com/channel/UC9ocsRoOwj9tkAQNfUt8ZJg?sub_confirmation=1)
