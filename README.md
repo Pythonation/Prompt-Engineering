@@ -11,6 +11,8 @@ Prompt Engineering Cours in Arabic
 
 [![مجتع بايثون العربي](https://images.milled.com/2019-12-19/3pGli9s5cCGeONOJ/uM1ZG0_8Y8E8.gif)](https://www.youtube.com/channel/UC9ocsRoOwj9tkAQNfUt8ZJg?sub_confirmation=1)
 
+
+
 <h3 style="direction: rtl; text-align: right;">العنصر الأول : المُهمّة الـTask</h3>
 <p style="direction: rtl; text-align: right;">وهو التحديد الواضح للوظيفة أو الهدف الذي يجب أن يركز عليه النموذج ، وتعيين المهام في التلقينات أمر أساسي لا أعتقد أن أحداً منكم يجهله ، إلا أن الخطأ الذي سقط فيه الجميع هو ضيق الأفق ، الناس يستخدمون نوع محدود جدا من المهام مثل :</p>
 <ul style="text-align: right;">
@@ -20,7 +22,7 @@ Prompt Engineering Cours in Arabic
 </ul>
 <p style="direction: rtl; text-align: right;">الخبر الجميل أن نماذج الذكاء الإصطناعي قادرة على تنفيذ آلاف المهام الأخرى ، دعنا نطرح على الشات جي بي تي السؤال التالي :</p>
 <ul style="text-align: right; list-style-type: disc;">
-<li style="direction: rtl;"><span style="color: #0000ff;"><em><strong>"ما هي 100 مهمة أو فعل يمكن أن تقوم به كنموذج لغوي؟"</strong></em></span></li>
+<li style="direction: rtl;"><span style="color: #33cccc;"><em><strong>"ما هي 100 مهمة أو فعل يمكن أن تقوم به كنموذج لغوي؟"</strong></em></span></li>
 </ul>
 <p style="direction: rtl; text-align: right;">، وهنا في نفس الوقت سأعطيك درس في مسألة التحديد الواضح للمهمة ، دعنا نغير التلقينة إلى التالي :</p>
 <ul style="text-align: right;">
