@@ -19,7 +19,9 @@ Prompt Engineering Cours in Arabic
 <li style="direction: rtl;">أعد الصياغة ..</li>
 </ul>
 <p style="direction: rtl; text-align: right;">الخبر الجميل أن نماذج الذكاء الإصطناعي قادرة على تنفيذ آلاف المهام الأخرى ، دعنا نطرح على الشات جي بي تي السؤال التالي :</p>
-<p>ما هي 100 مهمة أو فعل يمكن أن تقوم به كنموذج لغوي؟</p>
+<ul style="text-align: right; list-style-type: disc;">
+<li style="direction: rtl;"><span style="color: #0000ff;"><em><strong>"ما هي 100 مهمة أو فعل يمكن أن تقوم به كنموذج لغوي؟"</strong></em></span></li>
+</ul>
 <p style="direction: rtl; text-align: right;">، وهنا في نفس الوقت سأعطيك درس في مسألة التحديد الواضح للمهمة ، دعنا نغير التلقينة إلى التالي :</p>
 <ul style="text-align: right;">
 <li style="direction: rtl;">ما هو 100 فعل أو أمر مباشر يمكن أن تقوم بها كنموذج لغوي يا شات جي بي تي؟</li>
@@ -54,3 +56,59 @@ Prompt Engineering Cours in Arabic
 <p style="direction: rtl; text-align: right;">&nbsp;</p>
 <p style="direction: rtl; text-align: right;">&nbsp;</p>
 <p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">المهمة الثالثة : الإستنباط</p>
+<p style="direction: rtl; text-align: right;">هذه الوظيفة قوية جداً وتهُم الباحثين ومحللي الظواهر ، مثلا لدينا هذا الملف فيه معلومات عن أيام الأسبوع وعدد المثلجات التي تم بيعها في شاطيء ما وعدد حالات الغرق</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">يمكن استخدام نفس المهمة لتحليل البيانات لن نطيل أكثر . إلى الآن ستكون قد استوعبت أن مهام النماذج اللغوية ليست محدودة كما كنت تعتقد ، وأن هذه النماذج تفهم اكثر من اللغة &nbsp;، وأنها تفهم كذلك البيانات الفوضوية التي ننسخها اليها من الاكسل والمستندات .</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">مازلنا في العنصر الأول من عناصر التلقينة الجيدة ، الآن سننتقل إلى العنصر الثاني .</p>
+<p style="direction: rtl;"><a style="font-size: 14px;" name="_Toc143021418"></a></p>
+<p style="direction: rtl;"><span style="font-size: 14px;">العنصر الثاني : السياق الـ</span></p>
+<p style="direction: rtl; text-align: right;">رأينا في الفصل الماضي كيف يمكننا تزويد النماذج اللغوية بكل تلك المهام الرائعة، لكنّ المهام لتُنتج نتائج أكثر دقة فهي بحاجة إلى سياق ، لنفترض أنني شخص مبتدئ يتعلم لغة بايثون الآن ، سنذهب إلى</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">لنعد إلى bard ، الآن سنُضيف السياق أولا :</p>
+<p style="direction: rtl;"><a style="font-size: 14px;" name="_Toc143021419"></a></p>
+<p style="direction: rtl;"><strong style="font-size: 14px;">أنا مبتديء في لغة بايثون وأجد صعوبة في فهم الحلقات التكرارية ،</strong></p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<h2 style="direction: rtl; text-align: right;">&nbsp;</h2>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">كما أن السياق مهم بشكل حاسم حين يتعلق الأمر بوظائف التسويق الالكتروني ، إليك مثال آخر :</p>
+<p style="direction: rtl;"><a style="font-size: 14px;" name="_Toc143021421"></a></p>
+<p style="direction: rtl;"><span style="font-size: 14px;">"</span></p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">، من الأفضل إذا أردت أن تغيير السياق أن تنشيء محادثة جديدة أو أن تطلب من النموذج أن ينسى كل شيء ، نعم ذك ممكن .</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;الآن لننتقل إلى العنصر الثالث .</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl; text-align: right;">&nbsp;</p>
+<p style="direction: rtl;">&nbsp;</p>
+<p style="direction: rtl;">&nbsp;</p>
