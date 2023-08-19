@@ -4,7 +4,7 @@ Prompt Engineering Cours in Arabic
 <h1 align="right">هندسة التلقين (بالعربي)</h1>
 <h2 align="right">الجزء الثاني من سلسلة الخوارزميات :البارادايم</h2>
 
-[![الخوارزميات]((https://raw.githubusercontent.com/Pythonation/Prompt-Engineering/main/Prompt%20engineering%20YouTube%20video.png))](https://www.youtube.com/watch?v=7jRZSlQCSjc)
+
 
 <a href="https://www.youtube.com/channel/UC9ocsRoOwj9tkAQNfUt8ZJg?sub_confirmation=1"><img src="https://github.com/Pythonation/Prompt-Engineering/blob/main/Prompt%20engineering%20YouTube%20video.png"></a>
 
