@@ -22,7 +22,9 @@ Prompt Engineering Cours in Arabic
 </ul>
 <p style="direction: rtl; text-align: right;">الخبر الجميل أن نماذج الذكاء الإصطناعي قادرة على تنفيذ آلاف المهام الأخرى ، دعنا نطرح على الشات جي بي تي السؤال التالي :</p>
 <ul style="text-align: right; list-style-type: disc;">
-<li style="direction: rtl;"><span style="color: #33cccc;"><em><strong>"ما هي 100 مهمة أو فعل يمكن أن تقوم به كنموذج لغوي؟"</strong></em></span></li>
+<li style="direction: rtl;">
+<blockquote><span style="color: #33cccc;"><em><strong>"ما هي 100 مهمة أو فعل يمكن أن تقوم به كنموذج لغوي؟"</strong></em></span></blockquote>
+</li>
 </ul>
 <p style="direction: rtl; text-align: right;">، وهنا في نفس الوقت سأعطيك درس في مسألة التحديد الواضح للمهمة ، دعنا نغير التلقينة إلى التالي :</p>
 <ul style="text-align: right;">
