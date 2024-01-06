@@ -1,5 +1,4 @@
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
-Prompt Engineering Cours in Arabic
 # Prompt Engineering (Arabic)
 <h1 align="right">هندسة التلقين (بالعربي)</h1>
 <h2 align="right">الجزء الثاني من سلسلة الخوارزميات :البارادايم</h2>
